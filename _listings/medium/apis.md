@@ -6,10 +6,10 @@ description: Medium is an online publishing platform founded by Twitter co-found
   contributions and professional, paid contributions, an example of social journalism.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/medium-logo.png
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Medium
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/medium/master/_listings/medium/apis.md
 specificationVersion: "0.14"
 apis:

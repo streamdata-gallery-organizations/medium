@@ -4,7 +4,7 @@ x-collection-name: Medium
 x-complete: 1
 info:
   title: Medium.com
-  description: mediums-unofficial-api-documentation-using-openapi-specification-official-apiofficial-api-document-can-also-be-viewed-for-most-up-to-date-api-spec-at-httpsgithubcommediummediumapidocshttpsgithubcommediummediumapidocsdeveloper-blog--welcome-to-the-medium-apihttpsmediumcomblogwelcometothemediumapi3418f956552
+  description: mediums-unofficial-api-documentation-using-openapi-specification--official-apiofficial-api-document-can-also-be-viewed-for-most-up-to-date-api-spec-at-httpsgithub-commediummediumapidocshttpsgithub-commediummediumapidocs-developer-blog--welcome-to-the-medium-apihttpsmedium-comblogwelcometothemediumapi3418f956552
   termsOfService: https://medium.com/@feerst/2b405a832a2f
   contact:
     name: Hossain Khan
