@@ -4,7 +4,7 @@ x-collection-name: Medium
 x-complete: 0
 info:
   title: Medium Create User Post
-  description: "Creates a post on the authenticated user\u2019s profile."
+  description: Creates a post on the authenticated user???s profile.
   termsOfService: https://medium.com/@feerst/2b405a832a2f
   contact:
     name: Hossain Khan
@@ -82,7 +82,7 @@ paths:
   /users/{authorId}/posts:
     post:
       summary: Create User Post
-      description: "Creates a post on the authenticated user\u2019s profile."
+      description: Creates a post on the authenticated user???s profile.
       operationId: users.authorId.posts.post
       x-api-path-slug: usersauthoridposts-post
       parameters:
